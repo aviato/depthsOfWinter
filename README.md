@@ -1,14 +1,15 @@
 # The Depths of Winter
+![Screen Shot](http://i.imgur.com/D8vrDZo.png "Screen Shot")
 
-Created for the Bacon Game jam. The Depths Of Winter is a simulation game where you play as a lord of a castle and must survive wolves, plague, starvation, and the bitter cold...
+Created for Bacon Game jam 09. The Depths Of Winter is a simulation game where you play as the lord of a castle who must help his people survive wolves, plague, starvation, and the bitter cold. Made with HTML, CSS and JavaScript.
 
-# Game design / Programming
+## Game Design and Programming
 Ryan Price
 
-# Art
+## Art
 Matthew Lorenzen
 
-# Music
+## Music
 Nick Krein
 
 
